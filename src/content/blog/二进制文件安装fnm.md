@@ -251,6 +251,6 @@ ls -l example.txt
 
 这将显示文件的权限信息。
 
-参考
+### 参考资料
 
 https://github.com/Schniz/fnm
